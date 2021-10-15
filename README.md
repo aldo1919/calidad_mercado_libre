@@ -8,6 +8,12 @@ CU - Loguear al usuario
 ![Screenshot(56)](https://user-images.githubusercontent.com/64567006/137435210-11b16f71-cc49-45a8-9f73-9567f97d0fbe.png)
 
 
+CU - Búsqueda de productos en mercado libre
+
+![image](https://user-images.githubusercontent.com/92562723/137435944-a8b82d98-0514-4757-8335-a6463e691404.png)
+
+
+CU - 
 
 CU - Registrar al usuario
 
