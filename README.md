@@ -13,13 +13,14 @@ CU - Búsqueda de productos en mercado libre
 ![image](https://user-images.githubusercontent.com/92562723/137436050-d2b78095-745e-478e-9287-7ff36b7fb06c.png)
 
 
+CU - Revisión detallada de producto
 
-CU - 
+![image](https://user-images.githubusercontent.com/92562723/137436186-832b4533-8b6a-4899-91b0-e6ca7f730d65.png)
+
 
 CU - Registrar al usuario
 
 ![Screenshot(58)](https://user-images.githubusercontent.com/64567006/137435269-8d05fb9f-6d91-4ab0-9501-59d55d2450bb.png)
-
 
 
 
