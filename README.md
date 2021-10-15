@@ -11,5 +11,5 @@ CU - COMPRA DE PRODUCTOS EN MERCADO LIBRE
 
 CU - CALIFICACION POST VENTA EN MERCADO LIBRE
 
-![image](https://user-images.githubusercontent.com/92561404/137434809-661f55ea-473e-4e3d-8466-169e89165de6.png)
+![image](https://user-images.githubusercontent.com/92561404/137434987-7fbe2ab8-35bd-4c13-80b6-47b90c7faa7c.png)
 
