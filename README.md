@@ -8,7 +8,8 @@ CU - Loguear al usuario
 
 CU - Registrar al usuario
 
-![Screenshot(57)](https://user-images.githubusercontent.com/64567006/137435214-d2466936-5ee3-4d54-8fb9-4a39fcf944de.png)
+![Screenshot(58)](https://user-images.githubusercontent.com/64567006/137435269-8d05fb9f-6d91-4ab0-9501-59d55d2450bb.png)
+
 
 
 
