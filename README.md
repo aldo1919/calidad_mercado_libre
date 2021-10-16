@@ -37,4 +37,6 @@ CU - Registro de ventas
 ![diagramaventa](https://user-images.githubusercontent.com/92562970/137568731-7d5c9a40-8412-4282-bb0a-202e94eeda0e.png)
 
 CU - Interacción a travez de comentarios
+![diagramacomentarios](https://user-images.githubusercontent.com/92562970/137569028-4bf8d99c-ac24-4d3a-93fc-93d8447aa65a.png)
+
 
