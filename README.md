@@ -2,15 +2,16 @@
 
 ![image](https://user-images.githubusercontent.com/92561404/137435438-834217ee-b021-4d38-9ebf-5193bd53b490.png)
 
+CU - Registrar al usuario
+
+![Screenshot(58)](https://user-images.githubusercontent.com/64567006/137435269-8d05fb9f-6d91-4ab0-9501-59d55d2450bb.png)
+
 
 CU - Loguear al usuario
 
 ![Screenshot(56)](https://user-images.githubusercontent.com/64567006/137435210-11b16f71-cc49-45a8-9f73-9567f97d0fbe.png)
 
 
-CU - Registrar al usuario
-
-![Screenshot(58)](https://user-images.githubusercontent.com/64567006/137435269-8d05fb9f-6d91-4ab0-9501-59d55d2450bb.png)
 
 
 CU - Búsqueda de productos en mercado libre
