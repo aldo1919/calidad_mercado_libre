@@ -21,7 +21,7 @@ CU - Búsqueda de productos en mercado libre
 
 CU - Revisión detallada de producto
 
-![image](https://user-images.githubusercontent.com/92562723/137436186-832b4533-8b6a-4899-91b0-e6ca7f730d65.png)
+![image](https://user-images.githubusercontent.com/92562723/137569168-8fd6ca68-d1e1-404f-9c2a-4f46812b1b0a.png)
 
 
 CU - COMPRA DE PRODUCTOS EN MERCADO LIBRE
