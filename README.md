@@ -2,6 +2,10 @@
 
 ![image](https://user-images.githubusercontent.com/92561404/137435438-834217ee-b021-4d38-9ebf-5193bd53b490.png)
 
+MercadoLibre es una empresa de E-Commerce con presencia en Sudamerica y Centroamerica. Los usuarios pueden vender y comprar tanto productos nuevos como usados a un precio fijo o variable, además de que se ofrecen servicios privados. MercadoLibre también posee un servicio llamado MercadoPago, una plataforma de cobro a los compradores y pagos y abonos a los vendedores.
+
+Es por ello que, por su confiabilidad, formas de interacción, formas de uso al usuario y empresas, y seguridad para el comprador y vendedor, hemos realizado los siguientes casos:
+
 CU - Registrar al usuario
 
 ![Screenshot(58)](https://user-images.githubusercontent.com/64567006/137435269-8d05fb9f-6d91-4ab0-9501-59d55d2450bb.png)
