@@ -34,5 +34,5 @@ CU - CALIFICACION POST VENTA EN MERCADO LIBRE
 
 CU - Registro de ventas
 
-CU - 
+CU - Interacción a travez de comentarios
 
