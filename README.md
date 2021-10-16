@@ -32,3 +32,7 @@ CU - CALIFICACION POST VENTA EN MERCADO LIBRE
 
 ![image](https://user-images.githubusercontent.com/92561404/137434987-7fbe2ab8-35bd-4c13-80b6-47b90c7faa7c.png)
 
+CU - Registro de ventas
+
+CU - 
+
